@@ -85,9 +85,11 @@ O item 'Arroz' foi adicionado ao carrinho.
 
 - **Python 3**
 
-## 👤 Autor
+## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) como parte de estudos em lógica de programação e estruturas de dados em Python.
+Helamã Lemes de Lima
+
+Estudante de Python e interessado em desenvolvimento de software e QA Automation.
 
 ---
 
